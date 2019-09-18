@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory /backend folder, you can run:
+
+### `nodemon server.js`
+
+use POSTMAN to run GET & POST queries
+
 In the project directory, you can run:
 
 ### `npm start`
