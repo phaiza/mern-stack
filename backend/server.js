@@ -6,7 +6,7 @@ const usersRouter = require("./routes/users");
 const exerciseRouter = require("./routes/exercises");
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
