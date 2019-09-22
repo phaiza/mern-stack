@@ -2,13 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory /backend folder, you can run:
+In the project directory /backend folder, start the server
 
 ### `nodemon server.js`
 
-use POSTMAN to run GET & POST queries
+use POSTMAN to run GET & POST queries to check if its working
 
-In the project directory, you can run:
+server runs on port [http://localhost:5000]
+
+In the project directory, to start the react app run
 
 ### `npm start`
 
